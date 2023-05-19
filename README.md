@@ -7,7 +7,7 @@ Fetch Application is a simple Android application that displays a list of multip
 - Android SDK version 21 or higher
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/MyAwesomeApp.git`
+1. Clone the repository: 'https://github.com/SaurabhJadhav5538/FetchApplication.git'
 2. Open the project in Android Studio.
 3. Build the project using the Gradle build system.
 4. Connect your Android device or start an emulator.
